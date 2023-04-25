@@ -25,8 +25,8 @@ will form the required data set for this use case. Please refer to the “DataSe
 the Data Science Test.xlsx” file for the same. 
 As a Data Scientist need to provide the solution approach using ML/Data Science 
 techniques to provide the below output 
-1. Predict the label for the bills with blank categories.
-2. Predict the label for the new set of bills which will be added in future.
+ 1. Predict the label for the bills with blank categories.
+ 2. Predict the label for the new set of bills which will be added in future.
 __________________________________________________________________________________
 
 Solution Approach :
